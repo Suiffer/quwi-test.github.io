@@ -3,7 +3,7 @@ export default {
   target: 'static',
   ssr: true,
   router: {
-    base: 'https://github.com/Suiffer/quwi.github.io'
+    base: '/quwi-test.github.io/'
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
